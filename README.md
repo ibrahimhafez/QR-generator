@@ -1,6 +1,6 @@
 # QR-generator
 
-Just run the index.js using VS Code by typing node index.js in the terminal or bash
+Just download and run the index.js file using VS Code by typing node index.js in the terminal or bash
 
 You will be asked to enter the URL, type it down and make sure it is correct.
 
